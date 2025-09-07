@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+```
+ Welcome I'm Look Germans!
+ I come from China.
+ I'm a student.
+```
+ ## Friends:
+ [Mbilse](https://github.com/mbilse)
+
+ kwai某手： 一个军迷
 <!--
 **xhr594040/xhr594040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
