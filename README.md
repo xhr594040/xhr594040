@@ -13,7 +13,7 @@
 <br />
  tiktok某音：娟儿
 <br />
- wechat某信：may the friendship between china
+ wechat某信：热爱生活 追求梦想
 <!--
 **xhr594040/xhr594040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
